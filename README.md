@@ -55,6 +55,4 @@ Your file must have these 5 columns:
 - Chart.js — Charts and visualization
 - Google Fonts — Outfit + Space Mono
 
----
 
-## Project Structure
